@@ -1,0 +1,1 @@
+make -f makefile.mingw "USE_UPNP=-" "USE_IPV6=-" "USE_QRCODE=-"
